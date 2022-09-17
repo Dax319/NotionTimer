@@ -8,11 +8,11 @@
     <style>
 
 body{
-    background: #0E0E0E;
+    background: #FFFFFF;
 }
 
 #timer {
-  color: #0E0E0E;
+  color: #FFFFFF;
   text-align: center;
   text-transform: uppercase;
   font-family: 'Lato', sans-serif;
